@@ -1,0 +1,43 @@
+﻿@model _123456.Models.Customer
+@{
+    ViewBag.Title = "New";
+}
+
+<h2>New Customer</h2>
+
+@using (Html.BeginForm("Save", "Customers", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div class"form-group">
+        @Html.LabelFor(m => m.ForeName)
+        @Html.TextBoxFor(m => m.ForeName, new { @class = "form-control" })
+        @Html.LabelFor(m => m.Surname)
+        @Html.TextBoxFor(m => m.Surname, new { @class = "form-control" })
+        @Html.LabelFor(m => m.Telephone)
+        @Html.TextBoxFor(m => m.Telephone, new { @class = "form-control" })
+        @Html.LabelFor(m => m.Email)
+        @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Email);
+        @Html.HiddenFor(m => m.Id)
+        <br />
+      
+        <div class="panel panel-info">
+            <div class="panel-heading">
+                <h3 class="panel-title">Photo</h3>
+            </div>
+            <div class="panel-body">
+                <input type="file" name="file" id="file" accept=".jpg,.bmp,.jpeg" />
+                <br />
+                @if (ViewBag.Base64String != null)
+                {
+
+                    <img alt="" src="@ViewBag.Base64String" style="height:175px;width:175px;" />
+                }
+            </div>
+        </div>
+        @*<div>
+            <input type="file" name="file" id="file" accept=".jpg,.bmp" />
+        </div>*@
+
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+}

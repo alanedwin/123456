@@ -1,0 +1,180 @@
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\ApplicationInsights.config
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\roslyn\csc.exe
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\roslyn\System.Collections.Immutable.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\roslyn\vbc.exe
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\roslyn\VBCSCompiler.exe
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\roslyn\VBCSCompiler.exe.config
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\123456.dll.config
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\123456.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\123456.pdb
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Antlr3.Runtime.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\EntityFramework.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\EntityFramework.SqlServer.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.AI.Web.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.AI.WindowsServer.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.ApplicationInsights.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.Owin.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.Owin.Security.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.Owin.Security.Google.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.Web.Infrastructure.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Newtonsoft.Json.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Owin.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\System.Web.Helpers.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\System.Web.Mvc.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\System.Web.Optimization.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\System.Web.Razor.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\System.Web.WebPages.Deployment.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\System.Web.WebPages.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\System.Web.WebPages.Razor.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\WebGrease.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.AI.Web.xml
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.AI.WindowsServer.xml
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.ApplicationInsights.xml
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\System.Web.Helpers.xml
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\System.Web.Mvc.xml
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\System.Web.Optimization.xml
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\System.Web.Razor.xml
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\System.Web.WebPages.xml
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\System.Web.WebPages.Deployment.xml
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\System.Web.WebPages.Razor.xml
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Antlr3.Runtime.pdb
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Newtonsoft.Json.xml
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\EntityFramework.xml
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\EntityFramework.SqlServer.xml
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.Owin.xml
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.Owin.Security.xml
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.Owin.Security.Google.xml
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\obj\Debug\123456.csprojResolveAssemblyReference.cache
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\obj\Debug\123456.dll
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\obj\Debug\123456.pdb
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\obj\Debug\_123456.Migrations.IntitalModel.resources
+c:\users\alan beattie\documents\visual studio 2015\Projects\123456\123456\obj\Debug\123456.csproj.GenerateResource.Cache
+C:\Users\Alan Beattie\documents\visual studio 2015\Projects\123456\123456\obj\Debug\_123456.Migrations.UpdateCustomerNameFields.resources
+C:\Users\Alan Beattie\documents\visual studio 2015\Projects\123456\123456\obj\Debug\_123456.Migrations.AddCustomerImage.resources
+C:\Users\Alan Beattie\Documents\Visual Studio 2015\Projects\123456\123456\obj\Debug\_123456.Migrations.AddTelToCustomer.resources
+C:\Users\Alan Beattie\Documents\Visual Studio 2015\Projects\123456\123456\obj\Debug\_123456.Migrations.AddEmailToCustomer.resources
+C:\Users\Alan Beattie\Documents\Visual Studio 2015\Projects\123456\123456\obj\Debug\_123456.Migrations.SeedUsers.resources
+C:\Users\Alan Beattie\Documents\Visual Studio 2015\Projects\123456\123456\obj\Debug\_123456.Migrations.AddRequiredToCustomerEmail.resources
+\\beattie\6313\Projects\123456\123456\bin\ApplicationInsights.config
+\\beattie\6313\Projects\123456\123456\bin\roslyn\csc.exe
+\\beattie\6313\Projects\123456\123456\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\beattie\6313\Projects\123456\123456\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\beattie\6313\Projects\123456\123456\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\beattie\6313\Projects\123456\123456\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\beattie\6313\Projects\123456\123456\bin\roslyn\Microsoft.CSharp.Core.targets
+\\beattie\6313\Projects\123456\123456\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\beattie\6313\Projects\123456\123456\bin\roslyn\System.Collections.Immutable.dll
+\\beattie\6313\Projects\123456\123456\bin\roslyn\System.Reflection.Metadata.dll
+\\beattie\6313\Projects\123456\123456\bin\roslyn\vbc.exe
+\\beattie\6313\Projects\123456\123456\bin\roslyn\VBCSCompiler.exe
+\\beattie\6313\Projects\123456\123456\bin\roslyn\VBCSCompiler.exe.config
+\\beattie\6313\Projects\123456\123456\bin\123456.dll.config
+\\beattie\6313\Projects\123456\123456\bin\123456.dll
+\\beattie\6313\Projects\123456\123456\bin\123456.pdb
+\\beattie\6313\Projects\123456\123456\bin\Antlr3.Runtime.dll
+\\beattie\6313\Projects\123456\123456\bin\EntityFramework.dll
+\\beattie\6313\Projects\123456\123456\bin\EntityFramework.SqlServer.dll
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.AI.Agent.Intercept.dll
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.AI.DependencyCollector.dll
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.AI.PerfCounterCollector.dll
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.AI.Web.dll
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.AI.WindowsServer.dll
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.ApplicationInsights.dll
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.AspNet.Identity.Core.dll
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.AspNet.Identity.Owin.dll
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.Owin.dll
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.Owin.Security.Cookies.dll
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.Owin.Security.dll
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.Owin.Security.Facebook.dll
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.Owin.Security.Google.dll
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.Owin.Security.OAuth.dll
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.Owin.Security.Twitter.dll
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.Web.Infrastructure.dll
+\\beattie\6313\Projects\123456\123456\bin\Newtonsoft.Json.dll
+\\beattie\6313\Projects\123456\123456\bin\Owin.dll
+\\beattie\6313\Projects\123456\123456\bin\System.Web.Helpers.dll
+\\beattie\6313\Projects\123456\123456\bin\System.Web.Mvc.dll
+\\beattie\6313\Projects\123456\123456\bin\System.Web.Optimization.dll
+\\beattie\6313\Projects\123456\123456\bin\System.Web.Razor.dll
+\\beattie\6313\Projects\123456\123456\bin\System.Web.WebPages.Deployment.dll
+\\beattie\6313\Projects\123456\123456\bin\System.Web.WebPages.dll
+\\beattie\6313\Projects\123456\123456\bin\System.Web.WebPages.Razor.dll
+\\beattie\6313\Projects\123456\123456\bin\WebGrease.dll
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.AI.DependencyCollector.xml
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.AI.Web.xml
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.AI.WindowsServer.xml
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.ApplicationInsights.xml
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\beattie\6313\Projects\123456\123456\bin\System.Web.Helpers.xml
+\\beattie\6313\Projects\123456\123456\bin\System.Web.Mvc.xml
+\\beattie\6313\Projects\123456\123456\bin\System.Web.Optimization.xml
+\\beattie\6313\Projects\123456\123456\bin\System.Web.Razor.xml
+\\beattie\6313\Projects\123456\123456\bin\System.Web.WebPages.xml
+\\beattie\6313\Projects\123456\123456\bin\System.Web.WebPages.Deployment.xml
+\\beattie\6313\Projects\123456\123456\bin\System.Web.WebPages.Razor.xml
+\\beattie\6313\Projects\123456\123456\bin\Antlr3.Runtime.pdb
+\\beattie\6313\Projects\123456\123456\bin\Newtonsoft.Json.xml
+\\beattie\6313\Projects\123456\123456\bin\EntityFramework.xml
+\\beattie\6313\Projects\123456\123456\bin\EntityFramework.SqlServer.xml
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.AspNet.Identity.Core.xml
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.AspNet.Identity.Owin.xml
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.Owin.xml
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.Owin.Security.xml
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.Owin.Security.Facebook.xml
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.Owin.Security.Cookies.xml
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.Owin.Security.OAuth.xml
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.Owin.Security.Google.xml
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.Owin.Security.Twitter.xml
+\\beattie\6313\Projects\123456\123456\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\beattie\6313\Projects\123456\123456\obj\Debug\123456.csprojResolveAssemblyReference.cache
+\\beattie\6313\Projects\123456\123456\obj\Debug\_123456.Migrations.IntitalModel.resources
+\\beattie\6313\Projects\123456\123456\obj\Debug\_123456.Migrations.UpdateCustomerNameFields.resources
+\\beattie\6313\Projects\123456\123456\obj\Debug\_123456.Migrations.AddCustomerImage.resources
+\\beattie\6313\Projects\123456\123456\obj\Debug\_123456.Migrations.AddTelToCustomer.resources
+\\beattie\6313\Projects\123456\123456\obj\Debug\_123456.Migrations.AddEmailToCustomer.resources
+\\beattie\6313\Projects\123456\123456\obj\Debug\_123456.Migrations.SeedUsers.resources
+\\beattie\6313\Projects\123456\123456\obj\Debug\_123456.Migrations.AddRequiredToCustomerEmail.resources
+\\beattie\6313\Projects\123456\123456\obj\Debug\123456.csproj.GenerateResource.Cache
+\\beattie\6313\Projects\123456\123456\obj\Debug\123456.dll
+\\beattie\6313\Projects\123456\123456\obj\Debug\123456.pdb

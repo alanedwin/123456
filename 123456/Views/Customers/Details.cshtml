@@ -1,0 +1,30 @@
+﻿@model _123456.Models.Customer
+@{
+    ViewBag.Title = Model.ForeName;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br />
+<br />
+<div class="panel panel-primary">
+    <div class="panel-heading">
+        <h3 class="panel-title">@Model.ForeName @Model.Surname</h3>
+    </div>
+    <div class="panel-body">
+       @if (ViewBag.Base64String != null)
+       {
+
+        <img alt="" src="@ViewBag.Base64String" style="height:175px;width:175px;" />
+         <p>@Model.Telephone</p>
+       }
+
+    <hr />
+
+    <p>@Html.ActionLink("Back", "Index", "Customers", new { @class = "btn btn-primary btn-lg" })
+        @Html.ActionLink("Edit", "Edit", "Customers", new { id = Model.Id }, new { @class = "btn btn-primary btn-lg" })</p>
+
+
+
+    </div>
+</div>
+
